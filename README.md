@@ -1,3 +1,6 @@
+# bowl-builder-official
+A react project to create and order your own salad bowls for Fishbowl Sydney
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
